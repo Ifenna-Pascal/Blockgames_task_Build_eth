@@ -66,5 +66,7 @@
       "**/hardhat-ts/**"
     ]
   },
-  "dependencies": {}
+  "dependencies": {
+    "humanize-duration": "^3.27.1"
+  }
 }
